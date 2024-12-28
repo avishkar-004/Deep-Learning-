@@ -28,3 +28,11 @@ Thumbs.db
 *.pt
 *.pth
 runs/
+
+# YOLO runs
+runs/
+yolov8*.pt
+
+# Datasets
+datasets/
+data/
