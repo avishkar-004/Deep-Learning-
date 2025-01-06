@@ -12,3 +12,8 @@ A collection of deep learning lab assignments covering fundamental to advanced t
 ### Assignment 2 - Neural Network on Iris and MNIST Datasets
 - Iris Dataset: Built a neural network from scratch achieving 100% test accuracy
 - MNIST Dataset: Achieved 95.24% test accuracy with 128 hidden neurons
+
+### Assignment 3 - YOLOv11 Object Detection
+- Trained YOLOv8/YOLOv11 on a custom Stationary Items dataset
+- Performed dataset preparation, model training (50 epochs), and inference
+- Evaluated with mAP, precision, recall, and F1 score per class
