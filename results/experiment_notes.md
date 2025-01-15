@@ -18,3 +18,15 @@
 - Activation: ReLU + Softmax
 - Learning rate: 0.01
 - Test accuracy: 95.24%
+
+## Assignment 3 - YOLO Object Detection
+- Model: YOLOv11n
+- Dataset: Stationary Items (Roboflow)
+- Epochs: 50
+- mAP@50: ~0.85
+
+## Assignment 4 - NLP Text Classification
+- Dataset: IMDB Movie Reviews (50K)
+- Logistic Regression: 89% accuracy
+- Naive Bayes: 85% accuracy
+- Feature extraction: TF-IDF + CountVectorizer
