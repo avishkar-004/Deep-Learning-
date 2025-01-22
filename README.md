@@ -17,3 +17,13 @@ A collection of deep learning lab assignments covering fundamental to advanced t
 - Trained YOLOv8/YOLOv11 on a custom Stationary Items dataset
 - Performed dataset preparation, model training (50 epochs), and inference
 - Evaluated with mAP, precision, recall, and F1 score per class
+
+### Assignment 4 - NLP Text Classification
+- Preprocessed IMDB movie reviews dataset (50,000 reviews)
+- Compared Logistic Regression and Naive Bayes classifiers
+- Achieved up to 89% accuracy
+
+### Assignment 5 - LSTM-Based Sequence Modeling
+- Time Series Forecasting: Predicted energy consumption using LSTM
+- Text Generation: Character-level LSTM on Shakespeare text
+- Text Classification: SMS spam detection with 98%+ accuracy
