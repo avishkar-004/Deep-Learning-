@@ -30,3 +30,14 @@
 - Logistic Regression: 89% accuracy
 - Naive Bayes: 85% accuracy
 - Feature extraction: TF-IDF + CountVectorizer
+
+## Assignment 5 - LSTM Sequence Modeling
+- Time Series: RMSE 0.042 on energy consumption prediction
+- Text Generation: Character-level LSTM on Shakespeare corpus
+- SMS Spam: 98.2% accuracy on spam detection
+
+## Assignment 6 - Encoder-Decoder with Attention
+- Three architectures compared: LSTM, LSTM+Bahdanau, Transformer
+- Best BLEU: 0.24 (Transformer)
+- Best ROUGE-L: 0.44 (Transformer)
+- Attention visualization shows meaningful alignment patterns
