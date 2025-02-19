@@ -36,3 +36,8 @@ yolov8*.pt
 # Datasets
 datasets/
 data/
+
+# Temporary outputs
+*.tmp
+*.bak
+output/
