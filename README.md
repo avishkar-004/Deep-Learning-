@@ -85,3 +85,7 @@ pip install -r requirements.txt
 ## Author
 
 Avishkar Pawar (202201040040)
+
+## License
+
+MIT License - see LICENSE file for details.
