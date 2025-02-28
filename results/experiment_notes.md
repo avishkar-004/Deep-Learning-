@@ -41,3 +41,8 @@
 - Best BLEU: 0.24 (Transformer)
 - Best ROUGE-L: 0.44 (Transformer)
 - Attention visualization shows meaningful alignment patterns
+
+## Summary
+- All 6 assignments completed covering core deep learning topics
+- Frameworks used: TensorFlow/Keras, PyTorch, scikit-learn
+- All experiments reproducible via Google Colab
